@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de Datos Relacionales 
+# Aldapa León Gael
+4AVP
